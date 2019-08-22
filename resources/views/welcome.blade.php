@@ -88,7 +88,7 @@
                 </div>
 
                 <div class="links">
-                    <a href="https://github.com/Fabio101">Github</a>
+                    <a href="https://github.com/Fabio101/Laravel-vue-demo">View the Code</a>
                 </div>
             </div>
         </div>
